@@ -1,0 +1,6 @@
+groq
+streamlit
+PyGithub
+plotly
+pandas
+matplotlib
